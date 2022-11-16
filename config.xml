@@ -272,7 +272,7 @@
     <firmware version="1.0.0">
       <mirror/>
       <flavour/>
-      <plugins>os-zerotier,os-iperf,os-git-backup</plugins>
+      <plugins>os-zerotier,os-iperf,os-git-backup,os-homeassistant-maxit</plugins>
     </firmware>
     <language>zh_CN</language>
     <dnsserver>192.168.2.3</dnsserver>
@@ -586,9 +586,9 @@
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@192.168.2.86</username>
-    <time>1668602599.8747</time>
-    <description>/system_advanced_admin.php made changes</description>
+    <username>(system)</username>
+    <time>1668602634.3808</time>
+    <description>/usr/local/opnsense/scripts/firmware/register.php made changes</description>
   </revision>
   <OPNsense>
     <captiveportal version="1.0.1">
