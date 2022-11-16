@@ -264,6 +264,7 @@
       <macs/>
       <keys/>
       <keysig/>
+      <enabled>enabled</enabled>
     </ssh>
     <rrdbackup>-1</rrdbackup>
     <netflowbackup>-1</netflowbackup>
@@ -585,8 +586,8 @@
   </widgets>
   <revision>
     <username>root@192.168.2.86</username>
-    <time>1668599981.7107</time>
-    <description>/diag_backup.php&#x8FDB;&#x884C;&#x66F4;&#x6539;</description>
+    <time>1668602499.6207</time>
+    <description>/system_advanced_admin.php made changes</description>
   </revision>
   <OPNsense>
     <captiveportal version="1.0.1">
