@@ -288,7 +288,7 @@
       <git version="1.0.0">
         <enabled>1</enabled>
         <url>https://github.com/gn00678465/opnsense-backup.git</url>
-        <branch>main</branch>
+        <branch>master</branch>
         <privkey/>
         <user>gn00678465@gmail.com</user>
         <password>balmung0315</password>
@@ -585,7 +585,7 @@
   </widgets>
   <revision>
     <username>root@192.168.2.86</username>
-    <time>1668599437.8593</time>
+    <time>1668599488.072</time>
     <description>/diag_backup.php&#x8FDB;&#x884C;&#x66F4;&#x6539;</description>
   </revision>
   <OPNsense>
