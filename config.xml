@@ -586,9 +586,9 @@
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>(system)</username>
-    <time>1668602634.3808</time>
-    <description>/usr/local/opnsense/scripts/firmware/register.php made changes</description>
+    <username>root@192.168.2.86</username>
+    <time>1668603371.2417</time>
+    <description>/diag_backup.php&#x8FDB;&#x884C;&#x66F4;&#x6539;</description>
   </revision>
   <OPNsense>
     <captiveportal version="1.0.1">
