@@ -264,7 +264,6 @@
       <macs/>
       <keys/>
       <keysig/>
-      <enabled>enabled</enabled>
       <passwordauth>1</passwordauth>
       <permitrootlogin>1</permitrootlogin>
     </ssh>
@@ -588,7 +587,7 @@
   </widgets>
   <revision>
     <username>root@192.168.2.86</username>
-    <time>1668602524.7728</time>
+    <time>1668602599.8747</time>
     <description>/system_advanced_admin.php made changes</description>
   </revision>
   <OPNsense>
