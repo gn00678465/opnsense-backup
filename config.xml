@@ -286,7 +286,7 @@
     <primaryconsole>video</primaryconsole>
     <backup>
       <git version="1.0.0">
-        <enabled>1</enabled>
+        <enabled>0</enabled>
         <url>https://github.com/gn00678465/opnsense-backup.git</url>
         <branch>master</branch>
         <privkey/>
@@ -585,7 +585,7 @@
   </widgets>
   <revision>
     <username>root@192.168.2.86</username>
-    <time>1668599488.072</time>
+    <time>1668599515.4673</time>
     <description>/diag_backup.php&#x8FDB;&#x884C;&#x66F4;&#x6539;</description>
   </revision>
   <OPNsense>
