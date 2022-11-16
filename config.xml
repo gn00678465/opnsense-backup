@@ -293,7 +293,7 @@
         <branch>master</branch>
         <privkey/>
         <user>gn00678465@gmail.com</user>
-        <password>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</password>
+        <password>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</password>
       </git>
     </backup>
   </system>
@@ -587,7 +587,7 @@
   </widgets>
   <revision>
     <username>root@192.168.2.86</username>
-    <time>1668603515.3249</time>
+    <time>1668603552.1245</time>
     <description>/diag_backup.php&#x8FDB;&#x884C;&#x66F4;&#x6539;</description>
   </revision>
   <OPNsense>
